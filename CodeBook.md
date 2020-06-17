@@ -1,6 +1,6 @@
 run_analysis.R prepares and follows the steps required by the final project guidelines of Johns Hopkins Courera Course: Getting and Cleaning Data.
 
-1. Downloading the data set and extracting it to a folder called UCI HAR Dataset
+1. Loading dplyr and downloading the data set and extracting it to a folder called UCI HAR Dataset.
 
 2. Assigning each data to variables
       features <- features.txt : 561 rows, 2 cols

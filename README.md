@@ -1,7 +1,7 @@
 # Coursera_JHDS3_Final_Project
 Final Programming Assignment for Johns Hopkins Coursera Course: Getting and Cleaning Data
 
-This repository is Maria Feiler's submision for Getting and Cleaning Data (a Johns Hopkins Coursera course) final project, an analysis of the Human Activity recognition dataset.
+This repository is Maria Feiler's submision for Getting and Cleaning Data (a Johns Hopkins Coursera course) final project, an analysis of the Human Activity Recognition Dataset.
 
 Find the dataset here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 

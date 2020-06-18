@@ -3,8 +3,8 @@ run_analysis.R prepares and follows the steps required by the final project guid
 1. Loading dplyr and downloading the data set and extracting it to a folder called UCI HAR Dataset.
 
 2. Assigning each data to variables
-      *features <- features.txt : 561 rows, 2 cols
-            *Features come from the acceleromter and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+      - features <- features.txt : 561 rows, 2 cols
+            Features come from the acceleromter and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
       activities <- activity_labels.txt : 6 rows, 2 cols
             Activities performed when the  measurements were taken and its labels.
       subject_test <- test/subject_test.txt : 2947 rows, 1 col
